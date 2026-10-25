@@ -2,15 +2,6 @@
 
 A study planner for organizing subjects, assignments, exam dates, and study progress.
 
-## Features
-
-- Dashboard with the current date, subject totals, assignment completion, deadlines, weekly goals, and upcoming exams.
-- Subject pages with assignment tracking.
-- Assignment due dates and low/medium/high priority labels.
-- Exam tracker with revision topics and confidence statuses.
-- Study-session logging, weekly goals, study streaks, and a study calendar.
-- Progress reports and achievement badges.
-- Data saved in the browser using local storage.
 
 ## Run locally
 
