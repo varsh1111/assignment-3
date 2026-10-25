@@ -10,7 +10,7 @@ I built Study Space using vibe coding with AI development tools such as Lovable 
 - Sidebar with subject pages.
 - Assignment due dates and low/medium/high priority labels.
 - Exam tracker with revision topics and confidence status.
-- Study session logging, weekly goals, study streaks, and a study calendar.
+- Study session logging, weekly goals, study days streaks.
 - Progress reports and achievement badges.
 - Data saved in the browser using local storage.
 
