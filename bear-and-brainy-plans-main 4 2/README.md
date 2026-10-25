@@ -1,7 +1,3 @@
-# Study Space
-
-A study planner for organizing subjects, assignments, exam dates, and study progress.
-
 
 ## Run locally
 
