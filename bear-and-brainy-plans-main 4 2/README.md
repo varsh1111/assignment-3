@@ -1,6 +1,6 @@
 # Study Space
 
-A cozy study planner for organizing subjects, assignments, exam dates, and study progress.
+A study planner for organizing subjects, assignments, exam dates, and study progress.
 
 ## Features
 
