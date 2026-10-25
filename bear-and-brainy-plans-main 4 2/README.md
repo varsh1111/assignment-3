@@ -8,13 +8,3 @@ npm install
 npm run dev
 ```
 
-## Checks
-
-Run the available automated checks with:
-
-```sh
-npm test
-npm run lint
-npm run build
-```
-
